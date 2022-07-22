@@ -5,23 +5,25 @@ repo: t # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: R-1
+    url: 51.210.128.134:5000/api/health
+  - name: R-2
+    url: 51.210.128.134:5005/api/health
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-
+    
+assignees: # Users to assign downtime issues (optional)
+  - AnandChowdhary
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /t
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
+  name: RD
+  introTitle: TD
+  introMessage: LD
     - title: Status
       href: /
     - title: GitHub
