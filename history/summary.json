@@ -22,18 +22,20 @@
     "url": "51.210.128.134:5000/api/health",
     "icon": "https://favicons.githubusercontent.com/5000",
     "slug": "r-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 170,
     "timeDay": 170,
     "timeWeek": 170,
     "timeMonth": 170,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-22": 1
+    }
   },
   {
     "name": "R-2",
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/5005",
     "slug": "r-2",
     "status": "down",
-    "uptime": "67.83%",
-    "uptimeDay": "67.83%",
-    "uptimeWeek": "67.83%",
-    "uptimeMonth": "67.83%",
-    "uptimeYear": "67.83%",
+    "uptime": "99.55%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-22": 0
+      "2022-07-22": 2
     }
   },
   {
