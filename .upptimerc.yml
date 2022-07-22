@@ -24,6 +24,7 @@ status-website:
   name: RD
   introTitle: TD
   introMessage: LD
+  navbar:
     - title: Status
       href: /
     - title: GitHub
